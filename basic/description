@@ -1,0 +1,11 @@
+Basics Lecture
+Title: Model choice and dimensionality reduction
+
+Description:
+This tutorial will provide hands-on examples of how to choose an appropriate unsupervised machine learning model. We will explore several dataset in terms of their variance structures, determining when simple methods suffice as well as examples where advanced methods are necessary. Goals of the lecture are:
+1: Visually explore simple datasets
+2: Choose model based on underlying variance structures
+3: Evaluate model success
+
+Note: I am hoping to make some datasets available but this is TBD.
+

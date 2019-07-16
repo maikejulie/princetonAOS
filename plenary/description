@@ -1,0 +1,6 @@
+Plenary Lecture
+Title: Elucidating complexity: providing robust system insight using unsupervised learning
+
+Abstract:
+The geosciences are becoming data rich both from modeling and observational studies. The available data can be overwhelmingly complicated when treated naively, but understanding the interactions in the data is important for gaining insight into the complex system. Unsupervised learning is a way to leverage data science tools to classify key interactions even in high-dimensional spatial datasets. The use of dimensionality reduction techniques and statistics are important to arrive at robust and reproducible classifications, where a naive approach would be misleading. In this lecture, the uses and misuses of unsupervised learning will be discussed with the aim of encouraging a careful and critical approach.
+

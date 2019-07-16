@@ -1,0 +1,6 @@
+Applications Lecture
+Title: Improving observational efficiency by learning where key boundaries are
+Abstract:
+
+The Earth system leaves observational studies with a conundrum: how much spatial and temporal data is enough? Moving beyond remote sensing, covering the entire ocean in-situ is not possible. Using unsupervised learning, geographies emerge showing distinct global regions. Here we will explore the idea that the regions we find can be used to guide in-situ observations, both directly and through refining the use of remote sensing. Using remote sensing of chlorophyll as an example, unsupervised offers insight significant for ecological understanding under climate change as well as for fisheries. We will discuss what hurdles remain and end with cautious optimism. 
+
