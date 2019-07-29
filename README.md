@@ -1,2 +1,2 @@
-# princetonAOS
-Repo to keep track of the lectures
+# princeton AOS
+Lecture slides and tutorials from July 2019
